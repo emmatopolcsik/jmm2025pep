@@ -7,4 +7,6 @@ This work is from <http://g4m.code4math.org>
 
 Hey mom and dad and zoe and aaron
 
+Commit then sync 
+
 ![koney](IMG_8080.jpg)
